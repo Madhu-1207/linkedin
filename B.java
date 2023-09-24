@@ -19,39 +19,3 @@ class B
         }  
 	}
 }
-for(i=1;i<=n;i++)
-    		{
-        		for(j=i-1;j<=n;j++)
-        		{
-            			System.out.print(" ");
-        		}
-        		for(j=i;j<=i;j++)
-        		{
-            			System.out.print("* ");
-        		}
-        		System.out.println("");
-    		}
-		for(i=n;i>=1;i--)
-    		{
-        		for(j=n;j>=i;j--)
-        		{
-            			System.out.print(" ");
-        		}
-        		for(j=i;j>=i;j--)
-        		{
-            			System.out.print("* ");
-        		}
-        		System.out.println("");
-    		}
-		for(i=1;i<=n;i++)
-    		{
-        		for(j=i-1;j<=n;j++)
-        		{
-            			System.out.print(" ");
-        		}
-        		for(j=i;j<=i;j++)
-        		{
-            			System.out.print("* ");
-        		}
-        		System.out.println("");
-    		}
